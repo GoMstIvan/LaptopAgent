@@ -1,3 +1,4 @@
+```simple_flowchart
           [User Prompt]
                 ↓
          main_tool.py
@@ -13,6 +14,7 @@
                         Tool function mapping
                                 ↓
                          回傳結果更新 context
+```
 
 
 | 項目        | `json_base`           | `inline_xml`       | `native`               | `code_gen`     |
