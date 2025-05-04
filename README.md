@@ -1,3 +1,8 @@
+# Step
+1. Download Ollama and key in terminal: ollama serve
+2. python main_mcp_server.py  to let it run on port 5005
+3. use main_tool_json_base.py or main_tool_inline_xml.py to finish task
+
 ```simple_flowchart
           [User Prompt]
                 ↓
